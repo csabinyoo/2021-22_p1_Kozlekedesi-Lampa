@@ -1,9 +1,9 @@
 # 2021-22_p1_KozlekedesiLampa
 | Tag neve   |      Beosztás      |
 |----------|:-------------:|
-| Medgyes Csaba |  ==> Csoportvezető |
-| Kovács János |   ==> Csoporttag   |
-| Oláh Péter |     ==> Csoporttag |
+| Medgyes Csaba |  Csoportvezető |
+| Kovács János |   Csoporttag   |
+| Oláh Péter |     Csoporttag |
 
 # Közlekedési-Gyalogos lámpa Raspberry-ben
 ![lights](lights.png)
