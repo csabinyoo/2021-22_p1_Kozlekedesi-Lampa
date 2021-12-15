@@ -1,22 +1,13 @@
 # 2021-22_p1_KozlekedesiLampa
 
-<style>
-    .traffic
-    {
-        filter: blur(20px);
-    }
-</style>
-
 | Tag neve   |      Beosztás      |
 |----------|:-------------:|
-| Medgyes Csaba |  <p style="color: red;">Csoportvezető</p> |
-| Kovács János |   <p style="color: orange;">Csoporttag</p>   |
-| Oláh Péter |     <p style="color: orange;">Csoporttag</p> |
+| Medgyes Csaba |  Csoportvezető |
+| Kovács János |   Csoporttag   |
+| Oláh Péter |     Csoporttag |
 
 # Közlekedési-Gyalogos lámpa Raspberry-ben
-<div class="traffic">
-    <img src="lights.png">
-</div>
+![lights](lights.png)
 
 # Kapcsolási rajz
 ![Kapcsrajz]([Fritzing]/p1_2021-22_schem.png)
