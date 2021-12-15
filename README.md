@@ -7,7 +7,6 @@
 | Oláh Péter |     Csoporttag |
 
 # Közlekedési-Gyalogos lámpa Raspberry-ben
-![lights](lights.png)
 
 # Kapcsolási rajz
 ![Kapcsrajz]([Fritzing]/p1_2021-22_schem.png)
