@@ -3,7 +3,7 @@
 <style>
     .traffic
     {
-        filter: blur(102px);
+        filter: blur(2px);
     }
 </style>
 
