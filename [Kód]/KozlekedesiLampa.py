@@ -51,7 +51,9 @@ def Teszt(n):
 T = 1.0 # Órajel periódusideje (1s)
 k = 2 # Gyorgyítási faktor
 TvalosIdo = T/k # Valós várakozás: tényleges órajel ütem
-fill = 50
+
+frequency = 3
+fill = 30
 
 # Gyalogos zöld villogási frekvenciája
 f = TvalosIdo/T*2
@@ -68,10 +70,10 @@ tOsszido = tPiros + tPirosSarga + tZold + tSarga
 
 # A program indulási pontja
 try:
-    Teszt(5)
-
-    print(f"| Közlekedési lámpa projekt | \n==> Kilépés: CTRL+C \n==> Gyorsítási érték --> {k}")
-
+    #Teszt(5)
+    print("Közlekedési lámpa")
+    print("Kilépés: CTRL+C")
+    print(f"Gyorsítási érték --> {k}")
     while True:
         if t == tOsszido:
             # Ha elértük az összidőt, akkor az idő újra fog indulni
@@ -89,7 +91,9 @@ try:
             # Járműlámpa: piros-sárga
             JarmuLampa(True, True, False)
             # Gyalogos zöld f-el villog
-            p = GPIO.PWM(pGyalogosZold, f)
+            p = GPIO.PWM(pGyalogosZold, frequency)
+            p.ChangeFrequency(frequency)
+            p.ChangeDutyCycle(fill)
             p.start(fill)
         
         # Vége a piros-sárgának(jármű)
