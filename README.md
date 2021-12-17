@@ -1,5 +1,6 @@
 <div align="center">
 <h1>Közlekedési-Gyalogos lámpa Raspberry-ben</h1>
+<hr>
 
 
 | Tag neve   |      Beosztás      |
