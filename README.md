@@ -2,11 +2,11 @@
 
 # Közlekedési-Gyalogos lámpa Raspberry-ben
 
-| Tag neve   |      Szerepkör      |
-|----------|:-------------:|
-| Medgyes Csaba |  Csoportvezető |
-| Kovács János |   Csoporttag   |
-| Oláh Péter |     Csoporttag |
+|Tag neve|Szerepkör|
+|:-:|:-:|
+|Medgyes Csaba| Csoportvezető|
+|Kovács János| Csoporttag|
+|Oláh Péter| Csoporttag|
 
 </div>
 
