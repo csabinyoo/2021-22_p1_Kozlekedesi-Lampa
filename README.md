@@ -1,6 +1,5 @@
 <div align="center">
 <h1>Közlekedési-Gyalogos lámpa Raspberry-ben</h1>
-<hr>
 
 
 | Tag neve   |      Beosztás      |
@@ -9,8 +8,6 @@
 | Kovács János |   Csoporttag   |
 | Oláh Péter |     Csoporttag |
 
-
-<hr>
 
 # Kapcsolási rajz
 </div>
