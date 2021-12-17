@@ -4,9 +4,9 @@
 
 |Tag neve|Szerepkör|
 |:-:|:-:|
-|Medgyes Csaba| Csoportvezető|
-|Kovács János| Csoporttag|
-|Oláh Péter| Csoporttag|
+|Medgyes Csaba| Projektvezető|
+|Kovács János| Projekttag|
+|Oláh Péter| Projekttag|
 
 </div>
 
